@@ -1,0 +1,36 @@
+.header {
+  padding: 20px;
+}
+
+.btn {
+  padding: 5px 10px;
+  margin: 0 1px 0 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.btn-warning {
+  background-color: #ffc60a;
+}
+
+.btn-warning:hover {
+  background-color: #e0ad05;
+}
+
+.btn-danger {
+  background-color: #ff0a0a;
+  color: #fff;
+}
+
+.btn-danger:hover {
+  background-color: #e00505;
+}
+
+.btn-success {
+  background-color: #3bff0a;
+}
+
+.btn-success:hover {
+  background-color: #38e005;
+}
